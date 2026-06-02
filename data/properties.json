@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Emerald Heights Villa",
+    "location": "Vasant Vihar, New Delhi",
+    "city": "Delhi",
+    "price": "₹4.2 Cr",
+    "priceValue": 42000000,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": "4800 sq ft",
+    "type": "Villa",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&q=80"
+    ],
+    "description": "A sprawling independent villa nestled in Delhi's most prestigious locality. Floor-to-ceiling windows flood every room with natural light, while the private garden and rooftop terrace offer unparalleled views of the city skyline.",
+    "amenities": ["Private Garden", "Rooftop Terrace", "Modular Kitchen", "Home Theatre", "3-Car Garage", "Swimming Pool", "24/7 Security", "Smart Home System"]
+  },
+  {
+    "id": 2,
+    "name": "Azure Sky Penthouse",
+    "location": "Golf Course Road, Gurugram",
+    "city": "Gurugram",
+    "price": "₹6.8 Cr",
+    "priceValue": 68000000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": "5200 sq ft",
+    "type": "Penthouse",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+      "https://images.unsplash.com/photo-1600573472550-8090b5e0745e?w=800&q=80"
+    ],
+    "description": "Perched on the 42nd floor with a private infinity pool and wrap-around terrace, this penthouse redefines luxury living in Gurugram. Imported Italian marble, Gaggenau appliances, and bespoke furnishings throughout.",
+    "amenities": ["Private Infinity Pool", "Wrap-Around Terrace", "Concierge Service", "Private Elevator", "Wine Cellar", "Gym", "Spa Room", "Panoramic City Views"]
+  },
+  {
+    "id": 3,
+    "name": "Serene Garden Residency",
+    "location": "Noida Extension, Noida",
+    "city": "Noida",
+    "price": "₹1.8 Cr",
+    "priceValue": 18000000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": "2200 sq ft",
+    "type": "Apartment",
+    "status": "Available",
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80"
+    ],
+    "description": "A beautifully designed 3BHK apartment with lush green views and premium interiors. Situated within a gated community featuring world-class amenities, making it an ideal home for families.",
+    "amenities": ["Gated Community", "Clubhouse", "Children's Play Area", "Jogging Track", "Power Backup", "Covered Parking", "Vastu Compliant", "Ready to Move"]
+  },
+  {
+    "id": 4,
+    "name": "The Royal Farmhouse",
+    "location": "Chattarpur, New Delhi",
+    "city": "Delhi",
+    "price": "₹12 Cr",
+    "priceValue": 120000000,
+    "bedrooms": 6,
+    "bathrooms": 7,
+    "area": "12000 sq ft",
+    "type": "Farmhouse",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+      "https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+    ],
+    "description": "An extraordinary farmhouse estate spread across 1.5 acres in South Delhi's green belt. Features a grand reception hall, private swimming pool, orchard, and staff quarters. The ultimate in private luxury.",
+    "amenities": ["1.5 Acre Plot", "Private Swimming Pool", "Orchard", "Staff Quarters", "Generator Backup", "CCTV Surveillance", "Banquet Hall", "Multiple Garages"]
+  },
+  {
+    "id": 5,
+    "name": "Horizon Smart Apartment",
+    "location": "Sector 150, Noida",
+    "city": "Noida",
+    "price": "₹95 L",
+    "priceValue": 9500000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": "1250 sq ft",
+    "type": "Apartment",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "description": "A contemporary smart home with IoT-enabled appliances, energy-efficient design, and a stunning corner view. Perfect for young professionals seeking modern, connected living.",
+    "amenities": ["Smart Home Automation", "Solar Panels", "EV Charging Point", "Co-working Space", "Rooftop Garden", "Package Lockers", "Video Door Phone", "Modular Kitchen"]
+  },
+  {
+    "id": 6,
+    "name": "Prestige Row House",
+    "location": "DLF Phase 4, Gurugram",
+    "city": "Gurugram",
+    "price": "₹3.1 Cr",
+    "priceValue": 31000000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": "3200 sq ft",
+    "type": "Row House",
+    "status": "Available",
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&q=80"
+    ],
+    "description": "An elegant G+2 row house in one of Gurugram's most sought-after addresses. Private terrace garden, dedicated parking for 2 cars, and premium finishes throughout. Walking distance to top schools and malls.",
+    "amenities": ["Private Terrace Garden", "2-Car Parking", "Servant Quarter", "Premium Fittings", "Modular Kitchen", "Home Automation", "24/7 Security", "Club Membership"]
+  }
+]
